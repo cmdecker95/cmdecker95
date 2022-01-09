@@ -3,7 +3,7 @@ My name is Christian, and I have 3 years experience as a self-taught Python deve
 
 ### Things I Do 👨🏽‍💻
 - [Upwork](https://www.upwork.com/freelancers/~0170b46925852a7c83): Freelancing
-- [Hello Tutor](https://www.hellotutor.org): Python Tutoring
+- [HelloTutor](https://www.hellotutor.org): Python Tutoring
 - [Data Annotation](https://www.dataannotation.tech): Python App Refactoring
 
 ### Currently Studying 🧠
