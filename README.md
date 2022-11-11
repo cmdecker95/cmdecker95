@@ -2,21 +2,21 @@
 
 **`Data Scientist | Full Stack Developer`**
 
-### 🦾 Technical Skills
+### 🦾 Proficient Skills
 
-- 4 years of Python experience
-  - Data Science using Databricks, Jupyter, and Anaconda
-  - Data Engineering using NumPy, Pandas, and Koalas
-  - Machine Learning using TensorFlow, MLflow, and scikit-learn
-  - REST API development using FastAPI, Django, and Flask
-  - Databasing using SQLAlchemy, PostgreSQL, and SQLite
+- 4 years of Python experience 🐍
+  - **Data Science** using Databricks, Jupyter, and Anaconda
+  - **Data Engineering** using NumPy, Pandas, and Koalas
+  - **Machine Learning** using TensorFlow, MLflow, and scikit-learn
+  - **REST API Development** using FastAPI, Django, and Flask
+  - **Databasing** using SQLAlchemy, PostgreSQL, and SQLite
   
-- 1 year of front end development experience
+- 1 year of Front End Development experience
   - HTML, CSS, JavaScript
   - Bootstrap CSS
   - Node, React
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools Used
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Databricks" width="40px" style="padding-right:10px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />
