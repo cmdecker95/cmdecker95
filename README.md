@@ -1,6 +1,6 @@
 # 👾 Christian Decker
 
-**`Machine Learning Engineer | Full Stack Developer`**
+**`Data Scientist | Full Stack Developer`**
 
 ### 🦾 Technical Skills
 
