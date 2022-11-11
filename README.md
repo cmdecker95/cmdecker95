@@ -2,19 +2,24 @@
 
 **`Data Scientist | Full Stack Developer`**
 
-### 🦾 Proficient Skills
+### 🦾 Top Skills
 
-- 4 years of Python experience 🐍
+- **`Python`** 4 years of experience 🐍
   - **Data Science** using Databricks, Jupyter, and Anaconda
-  - **Data Engineering** using NumPy, Pandas, and Koalas
+  - **Data Engineering** using Spark, NumPy, Pandas, and Koalas
   - **Machine Learning** using TensorFlow, MLflow, and scikit-learn
   - **REST API Development** using FastAPI, Django, and Flask
   - **Databasing** using SQLAlchemy, PostgreSQL, and SQLite
   
-- 1 year of Front End Development experience 👨🏽‍💻
-  - HTML, CSS, JavaScript
-  - Bootstrap CSS
-  - Node, React
+### 👌 Proficient Skills
+
+- **`Front End Development`** 1 year of experience 😎
+  - **Static Websites** using HTML, CSS/Bootstrap
+  - **Single Page Apps** using JS, Node, React
+
+- **`Qlik Sense`** <1 year of experience 🤓
+  - **BI Dashboards** using batch data from Databricks
+  - **Interactive Dashboards** using Vizlib Extensions
 
 ### 🛠️ Languages & Tools Used
 
@@ -22,6 +27,7 @@
 <img align="left" alt="Databricks" width="40px" style="padding-right:10px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Anaconda" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="Spark" width="40px" style="padding-right:10px" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg" />
 <img align="left" alt="NumPy" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Koalas" width="40px" style="padding-right:10px" src="https://raw.githubusercontent.com/databricks/koalas/master/icons/koalas-logo.png" />
