@@ -11,7 +11,7 @@
   - **REST API Development** using FastAPI, Django, and Flask
   - **Databasing** using SQLAlchemy, PostgreSQL, and SQLite
   
-- 1 year of Front End Development experience
+- 1 year of Front End Development experience 👨🏽‍💻
   - HTML, CSS, JavaScript
   - Bootstrap CSS
   - Node, React
