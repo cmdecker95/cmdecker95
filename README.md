@@ -4,16 +4,20 @@
 
 Avid problem solver with a passion for the practical.
 
-#### Python: 4 years
+#### Python 3: 4 years
   - Data Science: Databricks, Jupyter, Anaconda
   - Data Engineering: Spark, NumPy, Pandas, Koalas
-  - Machine Learning: TensorFlow, MLflow, scikit-learn
+  - Machine Learning: TensorFlow, Keras, MLflow, scikit-learn
   - RESTful API Development: FastAPI, Django, Flask
   - Databasing: SQLAlchemy, PostgreSQL, SQLite
 
-#### Front End Development: 1 year
-  - Static Websites: HTML, CSS/Bootstrap
-  - Single Page Apps: JS, Node, React, Svelte
+#### Web Development: 1 year
+  - The Basics: Semantic HTML5, CSS Grid, JS, Node
+  - CSS Frameworks: Pico CSS, Bootstrap
+  - Component Frameworks: React, Svelte
+  - Application Frameworks: SvelteKit 1.0
+  - ORM: Prisma
+  - Deployment: Railway
   - UI/UX: Photoshop, Figma
 
 #### DevOps: 1 year
