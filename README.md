@@ -1,28 +1,28 @@
 # Christian Decker 👨🏽‍💻
 
-**`Full Stack Engineer | Data Scientist`**
+**Full-Stack Web Developer | Data Scientist**
 
-Avid problem solver with a passion for the practical.
+Welcome to my GitHub profile! I'm a passionate problem solver with a strong foundation in full-stack development and data science. Here are some of the skills and technologies I've been working with:
 
-#### Python 3: 4 years
-  - Data Science: Databricks, Jupyter, Anaconda
-  - Data Engineering: Spark, NumPy, Pandas, Koalas
-  - Machine Learning: TensorFlow, Keras, MLflow, scikit-learn
-  - RESTful API Development: FastAPI, Django, Flask
-  - Databasing: SQLAlchemy, PostgreSQL, SQLite
+## Web Development
+- Frameworks: Next 13 (+React), SvelteKit 1.0 (+Svelte), Django, Flask
+- Frontend: HTML5, CSS (Flex/Grid), Bootstrap, Pico
+- Backend: Node, Express, TypeScript, FastAPI
+- Database: PostgreSQL, Pocketbase, SQLite
+- ORM: Prisma, SQLAlchemy
 
-#### Web Development: 1 year
-  - The Basics: Semantic HTML5, CSS Grid, JS, Node
-  - CSS Frameworks: Pico CSS, Bootstrap
-  - Component Frameworks: React, Svelte
-  - Application Frameworks: SvelteKit 1.0
-  - ORM: Prisma
-  - Deployment: Railway
-  - UI/UX: Photoshop, Figma
+## Data Science & Engineering
+- Python: 4 years of experience
+- Machine Learning Frameworks: Hugging Face, TensorFlow 2, Keras, PyTorch, MLlib, MLflow, scikit-learn
+- Data Science Tools: Databricks, Jupyter, Anaconda
+- Data Engineering Tools: Spark, NumPy, Pandas
 
-#### DevOps: 1 year
-  - Containerization: Docker, Docker Compose, Kubernetes, Helm
-  - CI/CD & Version Control: Git, GitHub, GitLab
+## DevOps
+- Containerization: Docker, Docker Compose, Kubernetes, Helm
+- Version Control: Git, GitHub, GitLab
+- Deployment: Railway, Vercel, AWS
 
-#### Business Analytics: 1 year
-  - Interactive Dashboards: Qlik Sense
+## Business Analytics
+- Interactive Dashboards: Qlik Sense
+
+Thanks for checking out my profile. Feel free to browse my repositories and reach out if you have any questions or project ideas!
