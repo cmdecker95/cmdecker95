@@ -4,19 +4,30 @@
 
 Avid problem solver with a passion for the practical.
 
-## Top Skills ✨
+## Skills ✨
 
 ### Languages
 - Javascript
-- Python
+- TypeScript
+- Python 3
+- SQL
 
 ### Full-Stack Development
 - Svelte & SvelteKit
 - React & Next
+- jQuery
 - FastAPI
+- Flask
+- Django
+- Prisma
+- Zod
+- Sass/SCSS
+- CSS3
+- HTML5
 
 ### Data Science
-- Tensorflow
+- Tensorflow 2 & Keras
+- HuggingFace Transformers
 - Scikit-learn
 - Pandas
 - NumPy
@@ -24,7 +35,7 @@ Avid problem solver with a passion for the practical.
 
 ### Tools
 - Git, GitHub, GitLab
-- Docker, Docker Compose
+- Docker, Docker Compose, Kubernetes
 - Jupyter, JupyterLab, Anaconda
 - Databricks, Delta Lake, MLflow
 - VS Code pro, Vim noob
