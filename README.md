@@ -1,48 +1,20 @@
-# Christian Decker 👨🏽‍💻
+```
+>>> Oh, hi there! <(^.^)>
 
-**Full-Stack Developer | Data Scientist**
+        +------------------+
+>>> I'm | Christian Decker | and I've been a self-taught programmer for 5 years.
+        +------------------+                 ^^^^ ^^^^^^ ^^^^^^^^^^
 
-Avid problem solver with a passion for the practical.
+                  +-----------------------------------+
+>>> I really like | Svelte/Kit, React/Next, and Astro | for web dev, but that's mainly a hobby.
+                  +-----------------------------------+
 
-## Skills ✨
+>>> People call me names at work: data scientist, machine learning engineer, full-stack developer,
+    solutions architect (whatever that means), and technical lead (whatever THAT means).
 
-### Languages
-- JavaScript
-- Python 3
-- SQL
+                                              +------------------------------------------+
+>>> My company gave me expert-level badges in | Python, JavaScript, CSS, SQL, and React. |
+                       ^^^^^^ ^^^^^ ^^^^^^    +------------------------------------------+
 
-### UI & Components
-- Svelte
-- React
-- HTML5
-- CSS3
-- SCSS
-
-### APIs & App Frameworks
-- SvelteKit
-- Next
-- FastAPI
-- Flask
-- Django
-
-### Type Safety
-- TypeScript
-- Prisma
-- Zod
-
-### Machine Learning
-- TensorFlow
-- Scikit-learn
-- Transformers 🤗
-
-### Data Engineering
-- PySpark
-- Pandas
-- NumPy
-
-### Tools
-- Git, GitHub, GitLab
-- Docker, Docker Compose, Kubernetes
-- Jupyter, JupyterLab, Anaconda
-- Databricks, Delta Lake, MLflow
-- VS Code pro, Vim noob
+>>> Thanks for stopping by! Check out my best work below...
+```
