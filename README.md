@@ -7,31 +7,38 @@ Avid problem solver with a passion for the practical.
 ## Skills ✨
 
 ### Languages
-- Javascript
-- TypeScript
+- JavaScript
 - Python 3
 - SQL
 
-### Full-Stack Development
-- Svelte & SvelteKit
-- React & Next
-- jQuery
+### UI & Components
+- Svelte
+- React
+- HTML5
+- CSS3
+- SCSS
+
+### APIs & App Frameworks
+- SvelteKit
+- Next
 - FastAPI
 - Flask
 - Django
+
+### Type Safety
+- TypeScript
 - Prisma
 - Zod
-- Sass/SCSS
-- CSS3
-- HTML5
 
-### Data Science
-- Tensorflow 2 & Keras
-- HuggingFace Transformers
+### Machine Learning
+- TensorFlow
 - Scikit-learn
+- Transformers 🤗
+
+### Data Engineering
+- PySpark
 - Pandas
 - NumPy
-- PySpark
 
 ### Tools
 - Git, GitHub, GitLab
