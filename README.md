@@ -1,20 +1,35 @@
 ```
->>> Oh, hi there! <(^.^)>
+(^,^)/       +------------------+
+Oh, hey! I'm | Christian Decker |\
+             +------------------+ |
+              \__________________\|
+(o.o)>
+Here are some fun facts about me:
+- Self-taught programmer with 5 years of XP
+  ^^^^ ^^^^^^
+                              +--------+
+- Big web dev fan, especially | Svelte | <3
+      ^^^ ^^^                 +--------+
 
-        +------------------+
->>> I'm | Christian Decker | and I've been a self-taught programmer for 5 years.
-        +------------------+                 ^^^^ ^^^^^^ ^^^^^^^^^^
+(-,-)'
+My job title is a little loose:
+- Data Scientist
+- Data Engineer
+- ML Engineer
+- Full-Stack Developer
+- Solutions Architect (whatever that means)
+- Technical Lead (whatever THAT means)
 
-                  +-----------------------------------+
->>> I really like | Svelte/Kit, React/Next, and Astro | for web dev, but that's mainly a hobby.
-                  +-----------------------------------+
 
->>> People call me names at work: data scientist, machine learning engineer, full-stack developer,
-    solutions architect (whatever that means), and technical lead (whatever THAT means).
+(0.0)>                   +---------------+
+This year, I earned some | Expert Badges | at work:
+- Python                 +---------------+
+- CSS
+- JavaScript
+- React
+- SQL
 
-                                              +------------------------------------------+
->>> My company gave me expert-level badges in | Python, JavaScript, CSS, SQL, and React. |
-                       ^^^^^^ ^^^^^ ^^^^^^    +------------------------------------------+
 
->>> Thanks for stopping by! Check out my best work below...
+(^u^)/
+Anyway, thanks for stopping by!
 ```
