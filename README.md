@@ -1,8 +1,15 @@
 ```
-(^,^)/       +------------------+
-Oh, hey! I'm | Christian Decker |\
-             +------------------+ |
-              \__________________\|
+   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ /                                     \
+|               +------------------+    |
+|  Oh, hey! I'm | Christian Decker |    |
+|               +------------------+    |
+ \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
+  |/
+
+(^,^)/
+
+
 (o.o)>
 Here are some fun facts about me:
 - Self-taught programmer with 5 years of XP
