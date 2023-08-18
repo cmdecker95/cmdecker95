@@ -39,16 +39,14 @@
 
    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
  /                                                 \
-|                          +----------------+       |
-|  At my day job, I juggle | multiple roles | ...   |
-|                          +----------------+       |
-|                                                   |
-|  (Full-Stack Developer)                           |
-|                                    (ML Engineer)  |
-|  (Solutions Architect)                            |
-|                                 (Data Scientist)  |
-|  (Technical Lead)                                 |
-|                                  (Data Engineer)  |
+|           +----------------+                      |
+|  I juggle | multiple roles | at my day job:       |
+|           +----------------+                      |
+|  - Machine Learning Engineer                      |
+|  - Data Scientist                                 |
+|  - Data Engineer                                  |
+|  - Full-Stack Developer                           |
+|  - Solutions Architect                            |
 |                                                   |
  \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
   |/
@@ -58,7 +56,7 @@
    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
  /                                                 \
 |              +---------------+                    |
-|  Earned some | Expert badges | from my company!   |
+|  Earned some | Expert badges | from my company:   |
 |              +---------------+                    |
 |  - Python                                         |
 |  - JavaScript                                     |
