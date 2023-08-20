@@ -1,81 +1,13 @@
-```
-   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
- /                               \
-|          +------------------+   |
-|  Hi! I'm | Christian Decker |   |
-|          +------------------+   |
- \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
-  |/
-  '
-(^,^)/
+# Christian Decker
 
-   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
- /                                                         \
-|        +------------------------+                         |
-|  I'm a | self-taught programmer | with 5 years of XP,     |
-|        +------------------------+                         |
-|                                                           |
-|  with training from Udemy, Codecademy, and YouTube (ofc)  |
-|                     ^^^^^  ^^^^^^^^^^      ^^^^^^^        |
-|                                                           |
- \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
-  |/
-  '
-(o.o)>
+Self-taught programmer with 5 years of experience and a passion for problem solving. I specialize in using modern frameworks such as SvelteKit, React, and Astro. My journey started with training from platforms like Udemy, Codecademy, and YouTube. I thrive on creating elegant solutions and continuously expanding my skillset.
 
-   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
- /                                                       \
-|                                +---------+              |
-|  Passionate problem solver and | web dev | enthusiast.  |
-|                                +---------+              |
-|                                                         |
-|  I'm really loving SvelteKit and Astro right now <3     |
-|                    ^^^^^^^^^     ^^^^^                  |
-|                                                         |
- \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
-  |/
-  '
-(0.0)>
+## About Me
 
-   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
- /                                                 \
-|           +----------------+                      |
-|  I juggle | multiple roles | at my day job:       |
-|           +----------------+                      |
-|  - Machine Learning Engineer                      |
-|  - Data Scientist                                 |
-|  - Data Engineer                                  |
-|  - Full-Stack Developer                           |
-|  - Solutions Architect                            |
-|                                                   |
- \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
-  |/
-  '
-(~.~)'
+I'm a versatile developer with a diverse set of roles at my day job, ranging from Machine Learning Engineer to Full-Stack Developer. I've earned Expert badges in Python, JavaScript, React, SQL, and CSS. This expertise allows me to approach projects from various angles, ensuring well-rounded and effective solutions.
 
-   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
- /                                                 \
-|              +---------------+                    |
-|  Earned some | Expert badges | from my company:   |
-|              +---------------+                    |
-|  - Python                                         |
-|  - JavaScript                                     |
-|  - React                                          |
-|  - SQL                                            |
-|  - CSS                                            |
-|                                                   |
- \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
-  |/
-  '
-(*.*)/
+## Current Focus
 
-   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
- /                                         \
-|          +-------------------------+      |
-|  Anywho, | thanks for stopping by! | <3   |
-|          +-------------------------+      |
- \   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ /
-  |/
-  '
-(^.^)/
-```
+My current tech obsessions are SvelteKit and Astro. These frameworks allow me to create fast, dynamic, and efficient web applications. I'm also deeply interested in staying updated with the latest trends and best practices in the development world.
+
+Thanks for visiting my profile! Feel free to connect and collaborate.
