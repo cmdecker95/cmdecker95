@@ -1,13 +1,27 @@
-# Christian Decker
+# Hello, I'm Christian 👋
 
-Self-taught programmer with 5 years of experience and a passion for problem solving. I specialize in using modern frameworks such as SvelteKit, React, and Astro. My journey started with training from platforms like Udemy, Codecademy, and YouTube. I thrive on creating elegant solutions and continuously expanding my skillset.
+I'm a passionate full-stack developer who loves working with Python, JavaScript, and frameworks like Svelte, React, and Astro. 
 
-## About Me
+🌱 Currently learning and growing my skills every day.
 
-I'm a versatile developer with a diverse set of roles at my day job, ranging from Machine Learning Engineer to Full-Stack Developer. I've earned Expert badges in Python, JavaScript, React, SQL, and CSS. This expertise allows me to approach projects from various angles, ensuring well-rounded and effective solutions.
+## Skills
 
-## Current Focus
+- 💻 Full-Stack Development
+- 🐍 Python
+- 🌐 JavaScript
+- ⚛️ React, Svelte
+- 🚀 Astro
 
-My current tech obsessions are SvelteKit and Astro. These frameworks allow me to create fast, dynamic, and efficient web applications. I'm also deeply interested in staying updated with the latest trends and best practices in the development world.
+## Projects
 
-Thanks for visiting my profile! Feel free to connect and collaborate.
+Here are a few projects I'm proud of:
+
+- [VERO Gear Shop](link-to-project-1) - E-commerce web app for selling VERO Gear, the official merchandise of the Texas A&M VERO Program 🛍
+- [Help Maui Rise](link-to-project-2) - Scrapes a spreadhseet of Venmo and GoFundMe links to get your donations where they're needed 💚
+- [MŪV Oahu](link-to-project-3) - Marketing site for MŪV Oahu, physical therapy focused on the recovery, strength, and education of good movement 💪
+
+## Contact Me
+
+📫 You can reach me at [cmdecker95@gmail.com](cmdecker95@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cmdecker95/).
+
+Let's code together and build amazing things!
