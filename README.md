@@ -13,6 +13,3 @@ My name is Christian, and I'm a **self-taught programmer**.
 - **Booz Allen Hamilton.** I'm the Technical Product Owner on a team of data engineers, BI analysyts, and front-end developers. We manage and deliver multiple software and data products to clients for a variety of use cases.
 - **Web dev for fun.** On the side, I make static marketing sites and full-featured web apps for my friends and family. I'm most proud of an eCommerce site for the Texas A&M VERO Program.
 - **Always be learning.** In my free time, I'm always studying something new. Right now, I'm studying for the **GitHub Foundations Certification Exam** and learning **Apache Kafka** for my next position.
-
-## Contact
-You can reach me at [hello@christiandecker.dev](mailto:hello@christiandecker.dev). Come say hi!
