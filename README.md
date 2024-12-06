@@ -11,7 +11,7 @@ Hey there! I'm Christian, a seasoned lead full-stack developer with a variety pa
 ## 💻 Proficiencies
 
 - **Front-End**: React, Svelte, Astro, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
-- **Back-End**: FastAPI, SQLModel, Pydantic, Python, PostgreSQL
+- **Back-End**: FastAPI, SQLModel, Pydantic, Python, PostgreSQL, Go
 - **DevOps**: Docker, GitHub Actions, Continuous Integration/Deployment/Delivery
 - **Testing**: Vitest, Playwright, Pytest
 
